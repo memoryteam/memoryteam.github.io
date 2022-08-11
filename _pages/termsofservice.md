@@ -12,4 +12,4 @@ InStock (hereinafter: Application) is a piece of software created to provide fin
 
 ## Contact Information
 For general inquiries, complaints, questions or claims concerning the licensed Application, please contact: 
-+ instockstory@gmail.com
++ memoryteam.m@gmail.com

@@ -6,4 +6,4 @@ permalink: /about/
 ---
 
 
-Contact: instockstory@gmail.com
+Contact: memoryteam.m@gmail.com
