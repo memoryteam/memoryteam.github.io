@@ -8,7 +8,7 @@ date: 2022-08-11
 ### 1.
 Go to the home screen and long press any empty space when apps are jiggling. Click the 「+」 button at the top. You can search or find the 「Memory」 widget in the list. Click the 「Memory」widget to add it to the home screen.
 
-![Alt text](images/tutorial.1.png)
+![alt text](https://github.com/memoryteam/memoryteam.github.io/blob/main/images/tutorial.1.png)
 
 ### 2. 
 After adding the default widget to the home screen, long press the widget and select "Edit Widget".
