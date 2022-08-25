@@ -16,21 +16,21 @@ You can search or find the「Memory」widget in the list.\
 ![Alt text](/images/tutorial_2.jpg?raw=true "Optional Title")
 
 ### 3.
-Click「Memory」widget to add it to the home screen.
+Click「Memory」widget to add it to the home screen.\
 ![Alt text](/images/tutorial_3.jpg?raw=true "Optional Title")
 
 - **How to edit a widget on the home screen?**
 
 ### 4.
-After adding the default widget to the home screen, long press the widget and select "Edit Widget".
+After adding the default widget to the home screen, long press the widget and select "Edit Widget".\
 ![Alt text](/images/tutorial_4.jpg?raw=true "Optional Title")
 
 ### 5.
-Click the "Select Style" to choose a style of the widget.
+Click the "Select Style" to choose a style of the widget.\
 ![Alt text](/images/tutorial_5.jpg?raw=true "Optional Title")
 
 - **How to edit the content of a widget?**
 
 ### 6.
-You can edit the widget's content within the app's Setting -> Widget.
+You can edit the widget's content within the app's Setting -> Widget.\
 ![Alt text](/images/tutorial_6.jpg?raw=true "Optional Title")
