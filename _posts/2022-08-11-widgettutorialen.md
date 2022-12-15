@@ -30,5 +30,6 @@ After upgrading to the Pro version, the list of the avaliable widgets styles wil
 ![Alt text](/images/tutorial_5_2.jpg?raw=true "Optional Title")
 
 - ### How to edit the content of a widget?
+
 1. You can edit the widget's content within the app's Widget section.\
 ![Alt text](/images/tutorial_6.jpg?raw=true "Optional Title")
