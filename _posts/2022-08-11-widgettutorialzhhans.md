@@ -5,6 +5,7 @@ date: 2022-08-25
 ---
 
 - **如何添加小组件至桌面**
+
 ### 1.
 长按桌面空白处，点击最上方的“+”加号。\
 ![Alt text](/images/tutorial_zhhans_1.jpg?raw=true "Optional Title")
@@ -17,20 +18,25 @@ date: 2022-08-25
 点击“添加小组件”。\
 ![Alt text](/images/tutorial_zhhans_3.jpg?raw=true "Optional Title")
 
-- **如何编辑桌面小组件**
-### 4. 
+
+- **如何选择桌面小组件类型**
+
+### 1. 
 添加初始小组件至桌面后，长按小组件，点击“编辑小组件”进行编辑。\
 ![Alt text](/images/tutorial_zhhans_4.jpg?raw=true "Optional Title")
 
-### 5.
+### 2.
 点击"小组件类型"选择需要的小组件类型。\
 ![Alt text](/images/tutorial_zhhans_5.jpg?raw=true "Optional Title")
+\
 ![Alt text](/images/tutorial_zhhans_5_1.jpg?raw=true "Optional Title")
 
-升级到高级版本后，可选择的小组件类型会包含高级版本小组件。
+升级到高级版本后，可选择的小组件类型会包含高级版本小组件。 \
 ![Alt text](/images/tutorial_zhhans_5_2.jpg?raw=true "Optional Title")
 
+
 - **如何编辑小组件内容**
-### 6.
+
+### 1.
 可以在小回忆应用内的设置 > 小组件编辑小组件内容。\
 ![Alt text](/images/tutorial_zhhans_6.jpg?raw=true "Optional Title")
